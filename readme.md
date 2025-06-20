@@ -116,6 +116,6 @@ The Honeypot Detector has been created by five CS master students at [TU Delft](
 
 - [Mitchell van Pelt](mailto:m.vanpelt-1@student.tudelft.nl)
 
-- [Mrityunjaya Palanimurugan Vasanthakumari](mailto:m.palanimuruganvasanthakumari@student.tudelft.nl)
+- [Mrityunjaya](mailto:m.palanimuruganvasanthakumari@student.tudelft.nl)
 
 - [Erin Vergeer](mailto:e.vergeer@student.tudelft.nl)
